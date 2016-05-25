@@ -1,1 +1,2 @@
-Prueba para la realización de acciones con git
+Prueba para la realización de acciones con git.
+Con --amend como opción en el commit no realizamos un nuevo commit sino que arreglamos el string que le pasamos como parte del commit, el mensaje de confirmación.
